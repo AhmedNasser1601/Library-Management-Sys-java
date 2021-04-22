@@ -1,5 +1,7 @@
 # Library-Management-Sys-Java
 
+This Project is done with Object Oriented Programming (OOP) in Java
+
 System to manage Libraries with several services and different privileges, Done Fully with Java
 
 Credits to =>
